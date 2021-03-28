@@ -1,0 +1,105 @@
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: black;
+}
+
+::-webkit-scrollbar-thumb {
+    background: white;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: azure;
+}
+
+:root {
+    --main-color--: black;
+}
+
+::selection {
+    background-color: var(--main-color--);
+    color: black;
+}
+
+::-moz-selection {
+    /* Code for Firefox */
+    background-color: var(--main-color--);
+    color: black;
+}
+#body{
+    background-image: url(../../images/7.gif);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Bangers', cursive;
+    height: 100vh;
+}
+/*navigation*/
+#nav-link-li {
+    color: white;
+    margin-right: 80px;
+
+}
+
+#nav-link-li:hover {
+    color: black;
+    opacity: 0.8;
+    background-color: yellow;
+}
+
+@media only screen and (max-width: 600px) {
+    #nav-link-li {
+        margin-right: 0;
+
+    }
+}
+
+.contact-logo {
+    padding-left: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+    .contact-logo {
+        padding-left: 5px;
+    }
+}
+.main-section{
+    margin-top: 50px;
+}
+#form-section{
+    width: 60%;
+    margin: 0 auto;
+}
+
+#contact-p {
+    background: linear-gradient(to right, yellow 0%, aqua 100%);
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#contact-p:hover {
+    opacity: 1;
+}
+#button {
+    width: 200px;
+    color: black;
+    font-weight: 700;
+    background: linear-gradient(to right, yellow 0%, aqua 100%);
+    opacity: 0.5;
+    border: none;
+   padding: 6px 12px;
+  border-radius: 3px;
+}
+
+#button:hover {
+    opacity: 1;
+}

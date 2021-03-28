@@ -1,0 +1,42 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+.font {
+  font-family: 'Bangers', cursive;
+
+}
+html {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: white;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: azure;
+}
+
+:root {
+  --main-color--: black;
+}
+
+::selection {
+  background-color: var(--main-color--);
+  color: black;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  background-color: var(--main-color--);
+  color: black;
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23f9b1ca-b792-4edc-a01b-591017355aa1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1oCYPNzo2ikpjtkUvLmwkTDQZnn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23f9b1ca-b792-4edc-a01b-591017355aa1" name="Default Changelist" comment="" />
+      <created>1612792032164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612792032164</updated>
+      <workItem from="1612792039264" duration="4464000" />
+      <workItem from="1612803444733" duration="2547000" />
+      <workItem from="1612868147620" duration="6585000" />
+      <workItem from="1612882437190" duration="4162000" />
+      <workItem from="1612894283280" duration="3675000" />
+      <workItem from="1612947985667" duration="7688000" />
+      <workItem from="1612975533133" duration="906000" />
+      <workItem from="1612977995810" duration="4216000" />
+      <workItem from="1613048613344" duration="6354000" />
+      <workItem from="1613064514997" duration="3093000" />
+      <workItem from="1613075794026" duration="419000" />
+      <workItem from="1613131900391" duration="1800000" />
+      <workItem from="1613134386335" duration="5921000" />
+      <workItem from="1613144682384" duration="395000" />
+      <workItem from="1613215376576" duration="11846000" />
+      <workItem from="1613296705351" duration="3578000" />
+      <workItem from="1613312038303" duration="3852000" />
+      <workItem from="1613320777644" duration="2281000" />
+      <workItem from="1613335512979" duration="99000" />
+      <workItem from="1613387166406" duration="8149000" />
+      <workItem from="1613400956325" duration="3906000" />
+      <workItem from="1613472718813" duration="12107000" />
+      <workItem from="1613496129466" duration="841000" />
+      <workItem from="1613559486111" duration="2451000" />
+      <workItem from="1613572562463" duration="62000" />
+      <workItem from="1613584996923" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
