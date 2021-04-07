@@ -6,7 +6,7 @@ Getting Started 🚀
 
 2. Change database username and password with yours in includes/config.php.
 
-3. Move file in xampp htdocs folder, start Apache and MySQL and type http://localhost/php-blog-plaxer-master/index.php in your browser URL.
+3. Move file in xampp htdocs folder, start Apache and MySQL and type http://localhost/php-gaming-blog-master/index.php in your browser URL.
 
 4. I create two accounts to test website:
 
