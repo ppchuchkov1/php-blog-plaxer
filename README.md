@@ -14,4 +14,3 @@ Getting Started 🚀
 
 -2. username:test_user password:1234 role:default
 
-5. I made this website to test what i learn about Procedural PHP.
