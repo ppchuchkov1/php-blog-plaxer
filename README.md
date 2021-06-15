@@ -12,5 +12,5 @@ Getting Started 🚀
 
 -1. username:admin password:1234 role:admin all information in admin panel is static its not from database, i have to finish admin panel.
 
--2. username:test_user password:1234 role:default
+-2. username:test_user password:1234 role:default.
 
